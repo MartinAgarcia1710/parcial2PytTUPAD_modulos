@@ -4,7 +4,7 @@
 Proyecto realizado por Alberto Cortez. 
 Se modificó la modularización del proyecto:
 
-biblioteca/
+biblioteca/ 
 │
 ├── datos/
 │   ├── __init__.py
